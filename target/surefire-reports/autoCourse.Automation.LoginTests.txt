@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: autoCourse.Automation.LoginTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 73.731 s <<< FAILURE! - in autoCourse.Automation.LoginTests
+login(autoCourse.Automation.LoginTests)  Time elapsed: 73.669 s  <<< ERROR!
+java.lang.NullPointerException
+	at autoCourse.Automation.LoginTests.login(LoginTests.java:23)
+
